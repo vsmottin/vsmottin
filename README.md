@@ -21,6 +21,6 @@ Iniciei minha trajetória na área de tecnologia através do ensino médio técn
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,js,ts,nodejs,react,vue,c,cpp,html,css,mysql,postgres,aws,docker,git" alt="Minhas Tecnologias" />
+    <img src="https://skillicons.dev/icons?i=java,spring,js,ts,nodejs,react,vue,c,cpp,html,mysql,postgres,aws,docker,git" alt="Minhas Tecnologias" />
   </a>
 </p>
