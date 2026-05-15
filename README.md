@@ -13,8 +13,6 @@
   </a>
 </p>
 
----
-
 ## Sobre mim
 
 Sou desenvolvedora **Fullstack** na **LicitaPro Tecnologia** e acadêmica do 5° semestre do Bacharelado em **Ciência da Computação** pela **Universidade Tecnológica Federal do Paraná (UTFPR)**, *campus* Campo Mourão. 
@@ -30,5 +28,3 @@ Iniciei minha trajetória na área de tecnologia através do ensino médio técn
     <img src="https://skillicons.dev/icons?i=java,spring,js,ts,nodejs,react,vue,c,mysql,postgres,aws,docker,git" alt="Minhas Tecnologias" />
   </a>
 </p>
-
----
