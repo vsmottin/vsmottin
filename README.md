@@ -14,9 +14,11 @@
 Sou desenvolvedora fullstack na empresa LicitaPro Tecnologia e estudante do 5° semestre de <strong>Bacharelado em Ciência da Computação</strong> na <strong>UTFPR</strong> <i>campus</i> Campo Mourão. Minha jornada na tecnologia começou com o ensino médio técnico em Informática, o que me deu uma base sólida que hoje aplico com foco em desenvolvimento de software.</p>
   
   <br>
-<div align= "center">
-  <b><i>Tecnologias</i></b> 
-</div>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,js,ts,nodejs,react,vue,c,mysql,postgres,aws,docker,git)](https://skillicons.dev)
-  
+<p align="center">
+  <b><i>Tecnologias</i></b> 
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,js,ts,nodejs,react,vue,c,mysql,postgres,aws,docker,git" />
+  </a>
+</p>
