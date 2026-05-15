@@ -11,7 +11,7 @@
 <fieldset style="border: 2px solid #30ca8d; border-radius: 10px; padding: 20px; max-width: 800px;">
 
 <p align="center">
-Sou desenvolvedora fullstack na empresa LicitaPro Tecnologia e estudante do 5° semestre de <strong>Bacharelado em Ciência da Computação</strong> na UTFPR <i>campus</i> Campo Mourão. Minha jornada na tecnologia começou com o ensino médio técnico em Informática, o que me deu uma base sólida que hoje aplico com foco em desenvolvimento de software.
+Sou desenvolvedora fullstack na empresa LicitaPro Tecnologia e estudante do 5° semestre de Bacharelado em <b>Ciência da Computação</b> na <b>UTFPR <i>campus</i> Campo Mourão</b>. Minha jornada na tecnologia começou com o ensino médio técnico em Informática, o que me deu uma base sólida que hoje aplico com foco em desenvolvimento de software.
 </p>
 
 <br>
