@@ -5,12 +5,8 @@
 <h3 align="center">Estudante de Ciência da Computação | Desenvolvedora Fullstack</h3>
 
 <p align="center">
-  <a href="mailto:vsmottin@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=email&logoColor=white" alt="E-mail" />
-  </a>
-  <a href="https://br.linkedin.com/in/vsmottin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <a href="mailto:vsmottin@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=email&logoColor=white" /></a>
+  <a href="https://br.linkedin.com/in/vsmottin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
 
 ## Sobre mim
