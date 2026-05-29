@@ -13,7 +13,7 @@
 
 Sou desenvolvedora **Fullstack** na **LicitaPro Tecnologia** e acadêmica do 5° semestre do Bacharelado em **Ciência da Computação** pela **Universidade Tecnológica Federal do Paraná (UTFPR)**, *campus* Campo Mourão. 
 
-Iniciei minha trajetória na área de tecnologia através do ensino médio técnico em Informática. Hoje, aplico esses conhecimentos com foco em desenvolvimento de software, tenho interesse também nas áreas de engenharia de software, arquitetura de computadores, lógica digital e cibersegurança.
+Iniciei minha trajetória na área de tecnologia através do ensino médio técnico em Informática. Hoje, aplico esses conhecimentos com foco em desenvolvimento web, com igual interesse nas áreas de engenharia de software, arquitetura de computadores, lógica digital e cibersegurança.
 
 <br/>
 
